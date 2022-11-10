@@ -8,7 +8,8 @@ Credit to "Programming with Mosh", "the coding Train", "w3schools.com" and BIG t
 <img src= "assets/Screenshot 2022-11-09 202419.png">
 
 # Repo Link
-
+https://github.com/Moresoups/SimpleWeatherApp
 
 
 # website link
+https://moresoups.github.io/SimpleWeatherApp/
