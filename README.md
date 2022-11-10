@@ -5,7 +5,7 @@ Credit to "Programming with Mosh", "the coding Train", "w3schools.com" and BIG t
 
 
 # Screenshot
-<img src= "js/">
+<img src= "assets/Screenshot 2022-11-09 202419.png">
 
 # Repo Link
 
